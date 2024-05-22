@@ -2,6 +2,6 @@
 
 ## UML ábra
 
-<img src=tictactoe.drawio.png alt="UML ábra">
+<img src=tictactoe.png alt="UML ábra">
 
-  ![UML ábra] (tictactoe.drawio.png)
+  ![UML ábra] (tictactoe.png)
